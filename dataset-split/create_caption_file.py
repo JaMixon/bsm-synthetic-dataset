@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-data_path = '/home/jmix/code/bsm-ds-augment/data/train'
+data_path = # enter path to training data folder
 
 def make_csv():
 
