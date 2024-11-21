@@ -1,0 +1,29 @@
+- `Accelerate` version: 0.29.3
+- Platform: Linux-6.8.0-45-generic-x86_64-with-glibc2.35
+- `accelerate` bash location: /home/jmix/code/bsm-ds-augment/lora-fine-tune/lora-fine-tune/bin/accelerate
+- Python version: 3.11.10
+- Numpy version: 1.26.4
+- PyTorch version (GPU?): 2.2.2+cu121 (True)
+- PyTorch XPU available: False
+- PyTorch NPU available: False
+- PyTorch MLU available: False
+- System RAM: 62.60 GB
+- GPU type: NVIDIA GeForce RTX 4070
+- `Accelerate` default config:
+	- compute_environment: LOCAL_MACHINE
+	- distributed_type: NO
+	- mixed_precision: no
+	- use_cpu: False
+	- debug: False
+	- num_processes: 1
+	- machine_rank: 0
+	- num_machines: 1
+	- gpu_ids: all
+	- rdzv_backend: static
+	- same_network: True
+	- main_training_function: main
+	- enable_cpu_affinity: False
+	- downcast_bf16: no
+	- tpu_use_cluster: False
+	- tpu_use_sudo: False
+	- tpu_env: []
