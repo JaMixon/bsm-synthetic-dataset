@@ -51,4 +51,4 @@ Run the requirements file in the comp-vis-models directory: `pip install -r requ
 
 Add the appropriate data paths to each python file (or point the files to a parameters file).
 
-Run the models-run.sh file with `bash models-run.sh` or `./models-run.sh` (if avaiable as an executable script).
+Run the models-run.sh file with `bash models-run.sh` or `./models-run.sh` (if available as an executable script).
