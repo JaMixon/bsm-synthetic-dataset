@@ -4,11 +4,11 @@ import numpy as np
 from tqdm import tqdm
 
 # set the random seed number
-np.random.seed(47)
+np.random.seed(939)
 
 # directory path to the data sets
-data_path = '/home/jmix/data/bsm/Experiment images'
-dest_data_path = '/home/jmix/code/bsm-ds-augment/data'
+data_path = #enter path to experiment images folder
+dest_data_path = #enter path to train/test data folder
 
 # file masks
 file_mask_wm = 'WM'
